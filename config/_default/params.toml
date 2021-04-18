@@ -1,0 +1,33 @@
+logo = true
+logoText = "Bootcamp"
+logoType = "short" # long, short
+description = "Protocolli e Archivio eventi"
+themeOptions = ["light", "dark"]
+
+useFaviconGenerator = true
+
+wideViewAsDefault = true
+
+enableWideBlogSwitch = true
+enableTocSwitch = true
+enableLandingBackground = true
+enableSearch = false
+enableSearchHighlight = false
+enableLangChange = false
+enableDarkMode = true
+enableBreadcrumb = true
+enableBlogBreadcrumb = true
+enableEditBtn = false
+enableToc = true
+enableMenu = true
+enableNavbar = true
+enableFooter = true
+showPoweredBy = true
+
+paginateWindow = 1
+taxoPaginate = 13
+taxoGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
+
+github = "https://github.com/xpy5/ARE"
+
+enableComment = false

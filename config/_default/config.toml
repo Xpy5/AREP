@@ -1,0 +1,17 @@
+baseURL = "https://xpy5.github.io"
+theme = "zdoc"
+
+defaultContentLanguage = "it"
+defaultContentLanguageInSubdir = false
+hasCJKLanguage = false
+
+copyright = "http://bootcamp.altervista.org - Copyright ©{year}. All rights reserved."
+timeout = 10000
+enableEmoji = true
+paginate = 13
+rssLimit = 100
+
+disableKinds = ["taxonomyTerm", "RSS"]
+
+[outputs]
+    home = ["HTML"]

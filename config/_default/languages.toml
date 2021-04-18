@@ -1,0 +1,7 @@
+[it]
+  title = "Bootcamp"
+  languageName = "Italian"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/it"
+  
