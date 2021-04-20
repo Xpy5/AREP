@@ -56,7 +56,7 @@ draft: false
 |	SHIFT + CTRL + Rotella	|	Zoom in/out					|	X1000m		|		
 |	SHIFT + M				|	Toggle Map					|	On/Off		|	
 |	SHIFT + V				|	Toggle Voxel				|	On/Off		|
-|	SHIFT + T				|	Cycle Displayer Entities	|	-			|	
+|	SHIFT + T				|	Cycle Displayed Entities	|	-			|	
 |	SHIFT + B				|	Toggle Bots					|	On/Off		|
 |	SHIFT + U				|	Toggle Universe Map			|	On/Off		|
 
