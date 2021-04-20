@@ -8,7 +8,8 @@ draft: false
 		-tipo: Sistema Vitale
 		-criticità: Critica
 		-Sistema: Risequenziatore base
-		-Esito: All Green
+		-Esito: Risolto
+
 ![](/survaivalSoEnd/risequenziatore1.png)
 ![](/survaivalSoEnd/risequenziatore2.png)
 ![](/survaivalSoEnd/risequenziatore3.png)

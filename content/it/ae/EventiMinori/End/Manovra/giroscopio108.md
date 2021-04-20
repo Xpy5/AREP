@@ -8,7 +8,8 @@ draft: false
 		-tipo: Manovra
 		-criticità: Minore
 		-Sistema: Giroscopio (108)
-		-Esito: All Green
-![](/giroscopiEnd/giroscopio1.png)
-![](/giroscopiEnd/giroscopio2.png)
-![](/giroscopiEnd/giroscopio3.png)
+		-Esito: Risolto
+
+{{< img src="/giroscopiEnd/giroscopio1.png" width="500px" position="center" >}}
+{{< img src="/giroscopiEnd/giroscopio2.png" width="500px" position="center" >}}
+{{< img src="/giroscopiEnd/giroscopio3.png" width="500px" position="center" >}}

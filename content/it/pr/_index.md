@@ -1,7 +1,7 @@
 ---
 title: Protocolli
-description: Protocolli - Work in Progress
+description: Protocolli | Bootcamp
 date: 2021-04-18T18:40+02:00
 draft: false
-collapsible: false
+collapsible: true
 ---
