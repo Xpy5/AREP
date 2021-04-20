@@ -17,10 +17,10 @@ draft: false
 |	Lanciamissili	|	M-8 Swarmer					|	3000m				|			-			|	On/Off	|	Sicura - Toggle Click to Fire	|	Navi Maggiori		|	<100 m/s		|	Destroyer Missile X		|	Sciame di Missili Veloci e Precisi	|
 |	Siluri			|	M-1 Destroyer				|	5000m				|			-			|	On/Off	|	Sicura - Toggle Click to Fire	|	Risposta Letale		|	Stazionari		|	Boomer Torpedo			|	Incapacitanti, più Lenti e Letali	|
 |	Railgun			|	VX14 Iron-Hide				|	10000m				|	Controllo Manuale	|	On/Off	|				-					|	Distruzione			|		-			|	250kg W + U				|	Incapacitante e Distruttiva			|
-|		-			|	VX-08 "Dagger"				|			-			|			-			|		-	|				-					|			-			|		-			|	35mm Railgun spike		|				-						|	
-|		-			|	VX-10 "Pacifier"			|			-			|			-			|		-	|				-					|			-			|		-			|	256mm Railgun spike		|				-						|	
-|		-			|	HPDC "Nariman"				|			-			|			-			|		-	|				-					|			-			|		-			|	70mm Nariman Ammobox	|				-						|
-|		-			|	"Averger"					|			-			|			-			|		-	|				-					|			-			|		-			|	185	Averger Ammobox		|				-						|
+|	VX-08			|	VX-08 "Dagger"				|			-			|			-			|		-	|				-					|			-			|		-			|	35mm Railgun spike		|				-						|	
+|	VX-10			|	VX-10 "Pacifier"			|			-			|			-			|		-	|				-					|			-			|		-			|	256mm Railgun spike		|				-						|	
+|	HPDC			|	HPDC "Nariman"				|			-			|			-			|		-	|				-					|			-			|		-			|	70mm Nariman Ammobox	|				-						|
+|	Averger			|	"Averger"					|			-			|			-			|		-	|				-					|			-			|		-			|	185	Averger Ammobox		|				-						|
 
 **Regole d'Ingaggio:**
 
@@ -30,8 +30,7 @@ draft: false
 |	Lanciamissili	|	Navi Maggiori	|	1 Click per volta	|	q.b.				|
 |	Siluri			|	Off				|	q.b.				|	q.b.				|
 |	Railgun			|	Off				|	q.b.				|	q.b.				|
-
-
-
-
+|	VX-08			|		-			|			-			|			-			|
+|	VX-10			|		-			|			-			|			-			|
+|	Avenger			|		-			|			-			|			-			|
 

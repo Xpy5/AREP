@@ -5,9 +5,6 @@ date: 2020-10-20T14:09:21+09:00
 draft: false
 ---
 
-***Salve a tutti,***
-
-**È il vostro Ammiraglio che vi parla, il seguente articolo è stato ordinato dall’S.J.C. e riguarda l’introduzione di un nuovo protocollo operativo chiamato “Protocollo Sierra“.**
 **Il nome in codice Sierra è assegnato per gli operatori degli scudi, nel momento in cui verrà comunicato Sierra nel canale radio, l’addetto alla gestione degli scudi della nave dovrà prestare attenzione al successivo codice.**
 **Questa procedura riduce drasticamente i tempi di operatività e aumenta i tempi di reazione.**
 
@@ -47,8 +44,4 @@ Questi protocolli possono essere attivati tramite ordine diretto del capitano o 
 #### **Protocollo Sierra-Sisley**
 - Espandere lo scudo al massimo tramite opzione Fortify Shield, da attivare su richiesta del capitano o in caso di estrema emergenza. 
 - Es. schianto imminente con asteroide. Il protocollo in questione è attivabile anche senza ordine diretto del capitano ma dovrà essere riportato il caso nel rapporto descrivendo nel dettaglio il motivo dell’attivazione.
- 
-Questo è tutto, spero di essere stato esaustivo, se avete domande sapete dove porle.
- 
-A presto,
-##### ***vAmm. Armin e vAmm. ExGold***
+***
