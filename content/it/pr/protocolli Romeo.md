@@ -15,7 +15,7 @@ draft: false
 {{< img src="/prRomeo/preview_MapLegend.png" width="300px">}} 
 
     1. Range
-    2. Tipo di Targets
+    2. Tipo di Target
     3. Background Mappa
     4. Superfice Mappa
     5. Anelli mappa (33.3%, 66.7%, e 100% del Range)
@@ -38,11 +38,11 @@ draft: false
 
 ###### Note:
 
-- Per accedere al menù delle impostazioni della mappa: aprire la chat con "ENTER", premere il tasto "F2" e in seguito comparità un menù nel quale potete modificare alcune impostazioni (ClientSide).
-- Un asteroide non può avere un propietario e di conseguenza il suo colore sarà sempre Bianco (Nella Mappa).
+- Per accedere al menù delle impostazioni della mappa: aprire la chat con "ENTER", premere il tasto "F2" e in seguito comparirà un menù nel quale potrete modificare alcune impostazioni (ClientSide).
+- Un asteroide non può avere un proprietario e di conseguenza il suo colore sarà sempre Bianco (Nella Mappa).
 - Si può aggiungere il Radar anche sui pannelli LCD: accedere al terminale del LCD e nella sezione "Content", inserie la voce "Script" e successivamente selezionare "MiniMap by jTurp".
-- Se vi avvicinate ad un LCD con il radar istallato, il vostro radar in alto a destra scomparirà in automatico.
-- Esiste una Mappa più grande, simile ad una cartina nautica ma applicata nel ambito spaziale. Tramite una combinazioni di tasti (SHIFT + U) si può accedere alla mappa precedentemente citata. Questa mappa vi permette di visualizzare delle informazioni aggiuntive sulle navi attorno a voi.
+- Se vi avvicinerete ad un LCD con il radar istallato, il vostro radar in alto a destra scomparirà in automatico.
+- Esiste una altro tipo di Mappa. Questa mappa, a differenzza di quella in alto a destra, vi permetterà di visualizzare informazioni aggiuntive sulle navi attorno a voi.
 - Il Range minimo è 0m e quello massimo è 5000m.
 
 ***
@@ -72,9 +72,9 @@ draft: false
 | Comandi    				| Descrizione 			 					|	Valori						|
 |		:----:				|			:----:							|	:----:						|	
 |	/map range <valore>		|	Imposta un range preciso				|	Valore numerico in metri	|		
-|	/map targets <valore>	|	Imposta un target						|	All - F - N - NE - E		|	
-|	/map Show				|	Mostra o nasconde la mappa dal HUD		|				-				|
-|	/map show cockpit		|	Mostra o nasconde la mappa dal cockpit	|				-				|
+|	/map targets <valore>	|	Imposta un target specifico				|	All - F - N - NE - E		|	
+|	/map Show				|	Mostra o nasconde la mappa nel HUD		|				-				|
+|	/map show cockpit		|	Mostra o nasconde la mappa nel cockpit	|				-				|
 
 	All = tutti
 	F = Alleati
@@ -87,11 +87,11 @@ draft: false
 ### Protocolli Corto raggio
 
 - Romeo - Alpha: Impostare il Range a 1000m. Per scontri ravvicinati o per individuare meglio le entità intorno alla nave.
-- Romeo - Beta: Impostare il Range a 2000m. Per ingaggi a corto raggio in fase di combattimento.
+- Romeo - Beta: Impostare il Range a 2000m. Per ingaggi a corto raggio oppure in fase di combattimento.
 
 ### Protocolli Medio raggio
 
-- Romeo - Gamma: Impostare il Range a 2500m - 3000m. Stato di allerta minimo. Per scansione a medio-lungo raggio, utile per quando si è in movimento.
+- Romeo - Gamma: Impostare il Range a 2500m - 3000m. Stato di allerta minimo. Per scansione a medio-lungo raggio, utile quando si è in movimento.
 
 ### Protocolli Lungo raggio
 
