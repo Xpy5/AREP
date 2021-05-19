@@ -17,10 +17,10 @@ draft: false
 |	Lanciamissili	|	M-8 Swarmer					|	3000m				|			-			|	On/Off	|	Sicura - Toggle Click to Fire	|	Navi Maggiori		|	<100 m/s		|	Destroyer Missile X		|	Sciame di Missili Veloci e Precisi	|
 |	Siluri			|	M-1 Destroyer				|	5000m				|			-			|	On/Off	|	Sicura - Toggle Click to Fire	|	Risposta Letale		|	Stazionari		|	Boomer Torpedo			|	Incapacitanti, più Lenti e Letali	|
 |	Railgun			|	VX14 Iron-Hide				|	10000m				|	Controllo Manuale	|	On/Off	|				-					|	Distruzione			|		-			|	250kg W + U				|	Incapacitante e Distruttiva			|
-|	VX-08			|	VX-08 "Dagger"				|			-			|			-			|		-	|				-					|			-			|		-			|	35mm Railgun spike		|				-						|	
-|	VX-10			|	VX-10 "Pacifier"			|			-			|			-			|		-	|				-					|			-			|		-			|	256mm Railgun spike		|				-						|	
-|	HPDC			|	HPDC "Nariman"				|			-			|			-			|		-	|				-					|			-			|		-			|	70mm Nariman Ammobox	|				-						|
-|	Averger			|	"Averger"					|			-			|			-			|		-	|				-					|			-			|		-			|	185	Averger Ammobox		|				-						|
+|	VX-08			|	VX-08 "Dagger"				|	3500m				|	SubSystem ON		|	On/Off	|				-					|	Risposta Letale		|		-			|	35mm Railgun spike		|	Incapacitante e penetrante			|	
+|	VX-10			|	VX-10 "Pacifier"			|	3800m				|	SubSystem ON		|	On/Off	|				-					|	Risposta Letale		|		-			|	256mm Railgun spike		|	Incapacitante e distruttiva			|	
+|	HPDC			|	HPDC "Nariman"				|	1300m				|	SubSystem ON		|	On/Off	|				-					|	Risposta Letale		|		-			|	70mm Nariman Ammobox	|	Letali se a Fuoco Continuo			|
+|	Averger			|	"Averger"					|	1300m				|	SubSystem ON		|	On/Off	|				-					|	Risposta Letale		|		-			|	185	Averger Ammobox		|	Letali se a Fuoco Continuo			|
 
 **Regole d'Ingaggio:**
 
@@ -30,7 +30,8 @@ draft: false
 |	Lanciamissili	|	Navi Maggiori	|	1 Click per volta	|	q.b.				|
 |	Siluri			|	Off				|	q.b.				|	q.b.				|
 |	Railgun			|	Off				|	q.b.				|	q.b.				|
-|	VX-08			|		-			|	q.b.				|	q.b.				|
-|	VX-10			|		-			|	q.b.				|	q.b.				|
-|	Avenger			|		-			|	q.b.				|	q.b.				|
+|	VX-08			|	off				|	q.b.				|	q.b.				|
+|	VX-10			|	off				|	q.b.				|	q.b.				|
+|	HPDC			|	off				|	q.b.				|	q.b.				|
+|	Avenger			|	off				|	q.b.				|	q.b.				|
 
