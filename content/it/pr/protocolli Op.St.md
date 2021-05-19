@@ -30,8 +30,8 @@ draft: false
 |	Lanciamissili	|	Navi Maggiori	|	1 Click per volta	|	q.b.				|
 |	Siluri			|	Off				|	q.b.				|	q.b.				|
 |	Railgun			|	Off				|	q.b.				|	q.b.				|
-|	VX-08			|	off				|	q.b.				|	q.b.				|
-|	VX-10			|	off				|	q.b.				|	q.b.				|
-|	HPDC			|	off				|	q.b.				|	q.b.				|
-|	Avenger			|	off				|	q.b.				|	q.b.				|
+|	VX-08			|	Off				|	q.b.				|	q.b.				|
+|	VX-10			|	Off				|	q.b.				|	q.b.				|
+|	HPDC			|	Off				|	q.b.				|	q.b.				|
+|	Avenger			|	Off				|	q.b.				|	q.b.				|
 
