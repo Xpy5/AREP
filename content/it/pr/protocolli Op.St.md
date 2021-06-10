@@ -18,9 +18,9 @@ draft: false
 |	Siluri			|	M-1 Destroyer				|	5000m				|			-			|	On/Off	|	Sicura - Toggle Click to Fire	|	Risposta Letale		|	Stazionari		|	Boomer Torpedo			|	Incapacitanti, più Lenti e Letali	|
 |	Railgun			|	VX14 Iron-Hide				|	10000m				|	Controllo Manuale	|	On/Off	|				-					|	Distruzione			|		-			|	250kg W + U				|	Incapacitante e Distruttiva			|
 |	VX-08			|	VX-08 "Dagger"				|	3500m				|	SubSystem ON		|	On/Off	|				-					|	Risposta Letale		|		-			|	35mm Railgun spike		|	Incapacitante e penetrante			|	
-|	VX-10			|	VX-10 "Pacifier"			|	3800m				|	SubSystem ON		|	On/Off	|				-					|	Risposta Letale		|		-			|	256mm Railgun spike		|	Incapacitante e distruttiva			|	
+|	VX-10			|	VX-10 "Pacifier"			|	3800m				|	SubSystem ON		|	On/Off	|				-					|	Risposta Letale		|		-			|	265mm Railgun spike		|	Incapacitante e distruttiva			|	
 |	HPDC			|	HPDC "Nariman"				|	1300m				|	SubSystem ON		|	On/Off	|				-					|	Risposta Letale		|		-			|	70mm Nariman Ammobox	|	Letali se a Fuoco Continuo			|
-|	Averger			|	"Averger"					|	1300m				|	SubSystem ON		|	On/Off	|				-					|	Risposta Letale		|		-			|	185	Averger Ammobox		|	Letali se a Fuoco Continuo			|
+|	Avenger			|	HLPT "Avenger"				|	1300m				|	SubSystem ON		|	On/Off	|				-					|	Risposta Letale		|		-			|	185	Averger Ammobox		|	Letali se a Fuoco Continuo			|
 
 **Regole d'Ingaggio:**
 
