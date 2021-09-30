@@ -41,7 +41,7 @@ draft: false
 - Per accedere al menù delle impostazioni della mappa: aprire la chat con "ENTER", premere il tasto "F2" e in seguito comparirà un menù nel quale potrete modificare alcune impostazioni (ClientSide).
 - Un asteroide non può avere un proprietario e di conseguenza il suo colore sarà sempre Bianco (Nella Mappa).
 - Si può aggiungere il Radar anche sui pannelli LCD: accedere al terminale del LCD e nella sezione "Content", inserie la voce "Script" e successivamente selezionare "MiniMap by jTurp".
-- Se vi avvicinerete ad un LCD con il radar istallato, il vostro radar in alto a destra scomparirà in automatico.
+- Se vi avvicinerete ad un LCD con il radar installato, il vostro radar in alto a destra scomparirà in automatico.
 - Esiste una altro tipo di Mappa. Questa mappa, a differenzza di quella in alto a destra, vi permetterà di visualizzare informazioni aggiuntive sulle navi attorno a voi.
 - Il Range minimo è 0m e quello massimo è 5000m.
 
